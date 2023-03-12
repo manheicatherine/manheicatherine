@@ -1,4 +1,4 @@
-☺️ Hello 👋🏻 
+😊 Hello 👋🏻 
 
 🏖 I am a Junior Software Developer 🎧 
 
