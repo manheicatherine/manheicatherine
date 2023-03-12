@@ -6,11 +6,11 @@
 
 🍀 You can find my front-end and back-end project in repositories 🌟 <br />
 ***Personal:***<br />
-[![GitHub](https://i.stack.imgur.com/tskMh.png) Messaging App - GYMMER](https://github.com/manheicatherine/messagingApp) <br />
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GYMMER - Messaging App](https://github.com/manheicatherine/messagingApp) <br />
 [![GitHub](https://i.stack.imgur.com/tskMh.png) NC News App (Front-end)](https://github.com/manheicatherine/frontend-nc-news) <br />
 [![GitHub](https://i.stack.imgur.com/tskMh.png) NC News App (Back-end)](https://github.com/manheicatherine/be-ncnews) <br />
 ***Group Project:***<br />
-[![GitHub](https://i.stack.imgur.com/tskMh.png) Pet-United(NC)](https://github.com/manheicatherine/Pets-reunited) <br />
+[![GitHub](https://i.stack.imgur.com/tskMh.png) NC Pet-United](https://github.com/manheicatherine/Pets-reunited) <br />
 
 
 
