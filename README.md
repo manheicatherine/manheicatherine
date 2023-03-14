@@ -14,6 +14,6 @@
 
 
 
-***Feel free to connect with me on LinkedIn: <br />***
+***Feel free to contact me on LinkedIn: <br />***
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: Catherine Li](https://www.linkedin.com/in/manheicatherine/)
 &nbsp;
