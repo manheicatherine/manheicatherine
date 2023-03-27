@@ -15,8 +15,11 @@ https://manheicatherine.github.io/portfolio/
 ***Group Project:***<br />
 [![GitHub](https://i.stack.imgur.com/tskMh.png) NC Pet-United](https://github.com/manheicatherine/Pets-reunited) <br />
 
-
-
 ***Feel free to contact me on LinkedIn: <br />***
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn: Catherine Li](https://www.linkedin.com/in/manheicatherine/)
 &nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manheicatherine&layout=compact)](https://github.com/manheicatherine/github-readme-stats)<br />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manheicatherine&show_icons=true&theme=radical)](https://github.com/manheicatherine/github-readme-stats) <br />
+
