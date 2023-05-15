@@ -9,7 +9,8 @@ https://manheicatherine.github.io/portfolio/
 
 ***🌟 You can find my front-end and back-end project below 🌟 <br />***
 ***Personal:***<br />
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GYMMER - Messaging App](https://github.com/manheicatherine/messagingApp) <br />
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Dynamic Themes](https://github.com/manheicatherine/dynamicThemes) <br />
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Gymmer - Messaging App](https://github.com/manheicatherine/messagingApp) <br />
 [![GitHub](https://i.stack.imgur.com/tskMh.png) NC News App (Front-end)](https://github.com/manheicatherine/frontend-nc-news) <br />
 [![GitHub](https://i.stack.imgur.com/tskMh.png) NC News App (Back-end)](https://github.com/manheicatherine/be-ncnews) <br />
 ***Group Project:***<br />
