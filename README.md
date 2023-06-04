@@ -22,5 +22,3 @@ https://manheicatherine.github.io/portfolio/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manheicatherine&layout=compact)](https://github.com/manheicatherine/github-readme-stats)<br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manheicatherine&show_icons=true&theme=radical)](https://github.com/manheicatherine/github-readme-stats) <br />
-
